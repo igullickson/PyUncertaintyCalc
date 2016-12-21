@@ -3,7 +3,7 @@ Simple program to calculate uncertainty propagation, written in Python 3 with Sy
 
 Calculates via the general equation:
 
-![alt text](https://github.com/igullickson/PyUncertaintyCalc/blob/master/images/general_formula.svg?raw=true "General formula")
+![alt text](https://github.com/igullickson/PyUncertaintyCalc/blob/master/images/general_formula.png?raw=true "General formula")
 
 ## Example Runs
 Input:
