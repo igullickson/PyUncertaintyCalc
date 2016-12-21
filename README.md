@@ -1,7 +1,7 @@
 ##PyUncertaintyCalculator
 Simple program to calculate uncertainty propagation, written in Python 3 with Sympy.
 Calculates via the general equation:
-![Alt text](/images/general_formula.svg?raw=true "Optional Title")
+![Alt text](images/general_formula.svg?raw=true "General formula")
 
 ## Example Runs
 Input:
@@ -10,8 +10,8 @@ Output:
 Result of subsitution and the propogated uncertainty.
 
 Screenshots:
-![Alt text](/images/division.svg?raw=true "Example using division")
-![Alt text](/images/polynomial.svg?raw=true "Example using a polynomial")
+![Alt text](images/division.svg?raw=true "Example using division")
+![Alt text](images/polynomial.svg?raw=true "Example using a polynomial")
 
 ## Motivation
 
