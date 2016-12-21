@@ -9,6 +9,7 @@ Calculates via the general equation:
 Input:
 
 Equation, value and uncertainty for each variable.
+
 Output:
 
 Result of subsitution and the propogated uncertainty.
@@ -25,8 +26,11 @@ College physics lab reports requiring uncertainty calculations.
 
 ## How to Use
 Install [Python3](https://www.python.org/downloads/).
+
 Download PyUncertaintyCalc ZIP and extract.
+
 Install [SymPy](https://github.com/sympy/sympy) into the same folder as the PyUncertaintyCalc.
+
 Put shortcut 'Uncertainty Calculator' where desired and run.
 
 ## License
