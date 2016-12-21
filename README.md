@@ -22,7 +22,7 @@ Screenshots:
 
 ## Motivation
 
-College physics lab reports requiring uncertainty calculations.
+Automate uncertainty propogation calculations for college physics lab reports and practice using Python/tkinter/SymPy.
 
 ## How to Use
 Install [Python3](https://www.python.org/downloads/).
