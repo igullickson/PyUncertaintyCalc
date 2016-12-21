@@ -33,6 +33,8 @@ Install [SymPy](https://github.com/sympy/sympy) into the same folder as the PyUn
 
 Put shortcut 'Uncertainty Calculator' where desired and run.
 
+Input equation can include the following special functions: ln (natural log), sin, cos, tan, sec, csc, cot, acos, asin, atan, asec, ascs, and acot. E.g. 0.5t * sin(t-2)
+
 ## License
 
 Distributed under a [MIT License](https://opensource.org/licenses/MIT).
