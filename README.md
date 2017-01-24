@@ -27,7 +27,7 @@ Automate uncertainty propogation calculations for college physics lab reports an
 ## How to Use
 Install [Python3](https://www.python.org/downloads/).
 
-Download PyUncertaintyCalc ZIP and extract.
+Download PyUncertaintyCalc.zip and extract.
 
 Double click main.pyw to run.
 
