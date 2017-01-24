@@ -29,12 +29,8 @@ Install [Python3](https://www.python.org/downloads/).
 
 Download PyUncertaintyCalc ZIP and extract.
 
-Install [SymPy](https://github.com/sympy/sympy) into the same folder as the PyUncertaintyCalc.
-
-Put shortcut 'Uncertainty Calculator' where desired and run.
+Double click main.pyw to run.
 
 Input equation can include the following special functions: ln (natural log), sin, cos, tan, sec, csc, cot, acos, asin, atan, asec, ascs, and acot. E.g. 0.5t * sin(t-2)
 
-## License
-
-Distributed under a [MIT License](https://opensource.org/licenses/MIT).
+For each variable, enter the value and the uncertainty in the same textbox separated by a space (see screenshots of example runs).
