@@ -1,4 +1,4 @@
-##PyUncertaintyCalculator
+## PyUncertaintyCalculator
 Simple program to calculate uncertainty propagation, written in Python 3 with SymPy.
 
 Calculates via the general equation:
